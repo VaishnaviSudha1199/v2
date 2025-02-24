@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "test map",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-02-24T04:44:32.331Z",
+  "updateTime" : "2025-02-24T05:30:55.523Z",
   "objectRefs" : [ {
     "id" : "0JSgQ654Hx3ePaBFp43Foj",
     "name" : "flatfile-demo-branch",

@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "4siSWvuHwMRbXzmRCUDqKj",
-    "name" : "mt_ff_ff_branch_p1",
+    "id" : "3yzgI0IxGbsdxXMe3cmgif",
+    "name" : "mt_ff_ff_branch_p1 - Copy 1",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,21 +9,21 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01D40N0Z000000000002"
+        "repoHandle" : "01D40N0Z000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "added test",
-        "contentType" : "JSON",
+        "description" : null,
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-02-24T05:19:56.508Z",
+  "updateTime" : "2025-02-24T05:11:07.028Z",
   "objectRefs" : [ {
     "id" : "7K9rLnBIw3qdUCcVykyeiQ",
     "name" : "m_ff_ff_branch_p1",
